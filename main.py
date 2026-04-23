@@ -30,5 +30,4 @@ model.fit(X_train, y_train)
 # save model
 import pickle
 pickle.dump(model, open("model.pkl", "wb"))
-
 print("Model trained successfully!")
