@@ -153,7 +153,7 @@ if st.button("✦ Check eligibility", use_container_width=True, type="primary"):
 # ──────────────────────────────────────────────────────────────
 st.markdown("---")
 st.caption(
-    "ClearBank Loan Portal · Powered by Logistic Regression · "
+    "Eligify · Powered by Logistic Regression · "
     "For demo purposes only — not financial advice."
 )
 
